@@ -1,13 +1,13 @@
 ## Hackathon timetable
 
-The full schedule is available ⚠️(link)[here](https://community.qiskit.org/events/). 
+
 
 <table>
 <tr><td>
 <table>
 <thead>
 <tr>
-<th colspan="2">Before Dec 12 ⚠️(date)</th>
+<th colspan="2">Before June 24 </th>
 </tr>
 </thead>
 <tbody>
@@ -18,11 +18,11 @@ The full schedule is available ⚠️(link)[here](https://community.qiskit.org/e
 <table>
 <thead>
 <tr>
-<th colspan="2">Thursday (Dec 12 ⚠️(date))</th>
+<th colspan="2">Wednesday June 24)</th>
 </tr>
 </thead>
 <tbody>
-    <tr><td>9:00 - 9:30</td> <td><a href="#time-for-pitching-the-idea">Pitching ideas</a></td></tr>
+    <tr><td>12:00pm EST</td> <td><a href="#time-for-pitching-the-idea">Pitching ideas</a></td></tr>
     <tr><td>9:30 - 10:00</td><td><a href="#team-formation">Team Formation</a></td></tr>
     <tr><td>10:00 - 23:30</td><td><a href="#the-hacking-part-of-the-hackathon">Hackathon!</a> (day 1)</td></tr>
 </tbody>
