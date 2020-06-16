@@ -1,4 +1,4 @@
-![test](http://url/to/img.png)
+![test](https://github.com/qiskit-community/qiskit-summer-jam-20/blob/master/CommunitySummerJam_Maps_Logos_Icons-39.png)
 
 ## Qiskit Community Summer Jam
 Submit a pull request to add your team name and repo link to the Summer Jam below.
@@ -60,10 +60,7 @@ Each HackerEarth website contains the FAQ, Rules, Team Formation, Project ideas,
 [New England Summer Jam](https://qiskit-community-summer-jam-new-england.hackerearth.com/) - consisting of Yale, MIT, Harvard, BU, NYU, and any other New England area schools. 
 
 
-All the proposed projects should make use of some part of Qiskit (including the backends). They can also extend Qiskit or analyze it in some way. Take a look to projects from previous camps/hackathons for inspiration.
+All the proposed projects need to make use of some part of Qiskit (including the backends). They can also extend Qiskit or analyze it in some way. Take a look to projects from previous camps/hackathons for inspiration.
 
 </dd>
 
-## Time for pitching the idea
-
-Before the hackathon starts, the first thing to be done on the first day is to pitch all the ideas registered [here](https://github.com/qiskit-community/qiskit-camp-africa-19/issues)⚠️(link). The pitch is a 60-second-long exposition  by the original submitter of the idea. Make sure that you mention, at least, these three elements: team number, the problem to solve, the kind of people you need in your team. The goal is to recruit participant behind your idea. If your idea does not get critical mass, it will be discarded for this hackathon. 
