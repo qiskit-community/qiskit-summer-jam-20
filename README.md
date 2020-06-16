@@ -1,5 +1,5 @@
-## Hackathon timetable
-
+## Qiskit Community Summer Jam
+Submit a pull request to add your team name and repo link to the Summer Jam below.
 
 <table>
 <thead>
@@ -51,21 +51,12 @@
 
 ------
 
-## Before starting
+## Summer Jam Websites
 
-<dl>
-    <dt name="things-to-do-before-the-hackathon">Things to do before the hackathon</dt>
-    <dd>
-      
-Check the [preparation & installation document](preparation%26installation.md) note for things to do before the hackathon.
+Each HackerEarth website contains the FAQ, Rules, Team Formation, Project ideas, and much more. Use the links below to find your community's Summer Jam.
 
-</dd>
+[New England Summer Jam] (https://qiskit-community-summer-jam-new-england.hackerearth.com/) - consisting of Yale, MIT, Harvard, BU, NYU, and any other New England area schools. 
 
-
-    <dt name="collect">I have an idea for the hackathon</dt>
-    <dd>
-        
-Open an issue in this repo (using the [`new project`](issues/new?assignees=&labels=members+wanted&template=new-project-template.md&title=Project+name)⚠️(link) template) and explain your idea in some paragraphs.
 
 All the proposed projects should make use of some part of Qiskit (including the backends). They can also extend Qiskit or analyze it in some way. Take a look to projects from previous camps/hackathons for inspiration.
 
