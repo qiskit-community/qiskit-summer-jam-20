@@ -55,7 +55,7 @@ Submit a pull request to add your team name and repo link to the Summer Jam belo
 
 Each HackerEarth website contains the FAQ, Rules, Team Formation, Project ideas, and much more. Use the links below to find your community's Summer Jam.
 
-[New England Summer Jam] (https://qiskit-community-summer-jam-new-england.hackerearth.com/) - consisting of Yale, MIT, Harvard, BU, NYU, and any other New England area schools. 
+[New England Summer Jam](https://qiskit-community-summer-jam-new-england.hackerearth.com/) - consisting of Yale, MIT, Harvard, BU, NYU, and any other New England area schools. 
 
 
 All the proposed projects should make use of some part of Qiskit (including the backends). They can also extend Qiskit or analyze it in some way. Take a look to projects from previous camps/hackathons for inspiration.
