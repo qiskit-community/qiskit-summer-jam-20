@@ -3,6 +3,7 @@
 ## Qiskit Community Summer Jam
 Submit a pull request to add your team name and repo link to the Summer Jam below.
 
+
 <table>
 <thead>
 <tr>
@@ -27,6 +28,7 @@ Submit a pull request to add your team name and repo link to the Summer Jam belo
 </tbody>
 </table>
 
+    
 <table>
 <thead>
 <tr>
@@ -51,6 +53,8 @@ Submit a pull request to add your team name and repo link to the Summer Jam belo
 </tbody>
 </table>
 
+
+
 ------
 ![map](https://github.com/qiskit-community/qiskit-summer-jam-20/blob/master/CommunityJam_Map-01compress.png)
 ------
@@ -61,8 +65,16 @@ Each HackerEarth website contains the FAQ, Rules, Team Formation, Project ideas,
 
 [New England Summer Jam](https://qiskit-community-summer-jam-new-england.hackerearth.com/) - consisting of Yale, MIT, Harvard, BU, NYU, and any other New England area schools. 
 
+[Mid-West Summer Jam](https://qiskit-community-summer-jam-new-england.hackerearth.com/) - consisting of MSU, University of Chicago, University of Michigan, and any other Mid-West area schools. 
 
-All the proposed projects need to make use of some part of Qiskit (including the backends). They can also extend Qiskit or analyze it in some way. Take a look to projects from previous camps/hackathons for inspiration.
+[North Carolina Summer Jam](https://qiskit-community-summer-jam-new-england.hackerearth.com/) - consisting of NC State, UNC Chapel Hill, Duke, and any other North Carolina area schools. 
 
-</dd>
+[California Summer Jam](https://qiskit-community-summer-jam-new-england.hackerearth.com/) - consisting of Stanford, UC Irvine, and any other California area schools. 
+
+
+All projects need to make use of Qiskit, the open source framework for quantum computing. See the individual webpages for full contest terms and rules.
+
+
+![bloch](https://github.com/qiskit-community/qiskit-summer-jam-20/blob/master/CommunitySummerJam_Maps_Logos_Icons-22.png)
+
 
