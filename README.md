@@ -56,7 +56,9 @@ Submit a pull request to add your team name and repo link to the Summer Jam belo
 
 
 ------
-![map](https://github.com/qiskit-community/qiskit-summer-jam-20/blob/master/CommunityJam_Map-01compress.png)
+<p align="center">
+  <img width="600" src="https://github.com/qiskit-community/qiskit-summer-jam-20/blob/master/CommunityJam_Map-01compress.png">
+</p>
 ------
 
 ## Summer Jam Websites
