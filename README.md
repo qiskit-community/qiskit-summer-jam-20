@@ -43,7 +43,7 @@ Submit a pull request to add your team name and repo link to the Summer Jam belo
 <table>
 <thead>
 <tr>
-<th colspan="2">Mid-West Community Teams</th>
+<th colspan="2">Midwest Community Teams</th>
 </tr>
 </thead>
 <tbody>
