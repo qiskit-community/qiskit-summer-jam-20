@@ -5,30 +5,7 @@ Submit a pull request to add your team name and repo link to the Summer Jam belo
 
 
 <table>
-<thead>
-<tr>
-<th colspan="2">New England Community Teams</th>
-</tr>
-</thead>
-<tbody>
-    <tr><td>Team Name</td> <td><a href="www.qiskit.org">Link to repo</a></td></tr>
-    <tr><td>Team Name 2</td><td><a href="www.ibm.com">Link to repo</a></td></tr>
-</tbody>
-</table>
-
-<table>
-<thead>
-<tr>
-<th colspan="2">Mid-West Community Teams</th>
-</tr>
-</thead>
-<tbody>
-    <tr><td>Team Name</td> <td><a href="www.qiskit.org">Link to repo</a></td></tr>
-    <tr><td>Team Name 2</td><td><a href="www.ibm.com">Link to repo</a></td></tr>
-</tbody>
-</table>
-
-    
+<tr><td>
 <table>
 <thead>
 <tr>
@@ -40,7 +17,18 @@ Submit a pull request to add your team name and repo link to the Summer Jam belo
     <tr><td>Team Name 2</td><td><a href="www.ibm.com">Link to repo</a></td></tr>
 </tbody>
 </table>
-
+<table>
+<thead>
+<tr>
+<th colspan="2">California Community Teams</th>
+</tr>
+</thead>
+<tbody>
+    <tr><td>Team Name</td> <td><a href="www.qiskit.org">Link to repo</a></td></tr>
+    <tr><td>Team Name 2</td><td><a href="www.ibm.com">Link to repo</a></td></tr>
+</tbody>
+</table>
+</td><td>
 <table>
 <thead>
 <tr>
@@ -52,6 +40,18 @@ Submit a pull request to add your team name and repo link to the Summer Jam belo
     <tr><td>Team Name 2</td><td><a href="www.ibm.com">Link to repo</a></td></tr>
 </tbody>
 </table>
+<table>
+<thead>
+<tr>
+<th colspan="2">Mid-West Community Teams</th>
+</tr>
+</thead>
+<tbody>
+    <tr><td>Team Name</td> <td><a href="www.qiskit.org">Link to repo</a></td></tr>
+    <tr><td>Team Name 2</td><td><a href="www.ibm.com">Link to repo</a></td></tr>
+</tbody>
+</table>
+</td></tr></table>
 
 
 
