@@ -1,4 +1,4 @@
-![test](https://github.com/qiskit-community/qiskit-summer-jam-20/blob/master/CommunitySummerJam_Maps_Logos_Icons-39.png)
+![logo](https://github.com/qiskit-community/qiskit-summer-jam-20/blob/master/CommunitySummerJam_Maps_Logos_Icons-39.png)
 
 ## Qiskit Community Summer Jam
 Submit a pull request to add your team name and repo link to the Summer Jam below.
@@ -51,6 +51,8 @@ Submit a pull request to add your team name and repo link to the Summer Jam belo
 </tbody>
 </table>
 
+------
+![map](https://github.com/qiskit-community/qiskit-summer-jam-20/blob/master/CommunityJam_Map-01.png)
 ------
 
 ## Summer Jam Websites
