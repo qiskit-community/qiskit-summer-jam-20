@@ -22,7 +22,7 @@
 </tr>
 </thead>
 <tbody>
-    <tr><td>12:00pm EST</td> <td><a href="#time-for-pitching-the-idea">Pitching ideas</a></td></tr>
+    <tr><td>Team Name</td> <td><a href="#time-for-pitching-the-idea">Pitching ideas</a></td></tr>
     <tr><td>9:30 - 10:00</td><td><a href="#team-formation">Team Formation</a></td></tr>
     <tr><td>10:00 - 23:30</td><td><a href="#the-hacking-part-of-the-hackathon">Hackathon!</a> (day 1)</td></tr>
 </tbody>
