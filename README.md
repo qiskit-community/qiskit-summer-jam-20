@@ -1,3 +1,5 @@
+![test](http://url/to/img.png)
+
 ## Qiskit Community Summer Jam
 Submit a pull request to add your team name and repo link to the Summer Jam below.
 
