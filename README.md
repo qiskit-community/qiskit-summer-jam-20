@@ -74,7 +74,6 @@ Each HackerEarth website contains the FAQ, Rules, Team Formation, Project ideas,
 
 All projects need to make use of Qiskit, the open source framework for quantum computing. See the individual webpages for full contest terms and rules.
 
-
-![bloch](https://github.com/qiskit-community/qiskit-summer-jam-20/blob/master/CommunitySummerJam_Maps_Logos_Icons-22.png)
-
-
+<p align="center">
+  <img width="200" height="200" src="https://github.com/qiskit-community/qiskit-summer-jam-20/blob/master/CommunitySummerJam_Maps_Logos_Icons-22.png">
+</p>
