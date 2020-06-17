@@ -67,11 +67,11 @@ Each HackerEarth website contains the FAQ, Rules, Team Formation, Project ideas,
 
 [New England Summer Jam](https://qiskit-community-summer-jam-new-england.hackerearth.com/) - consisting of Yale, MIT, Harvard, BU, NYU, and any other New England area schools. 
 
-[Mid-West Summer Jam](https://qiskit-community-summer-jam-new-england.hackerearth.com/) - consisting of MSU, University of Chicago, University of Michigan, and any other Mid-West area schools. 
+[Mid-West Summer Jam](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-mid-west/) - consisting of MSU, University of Chicago, University of Michigan, and any other Mid-West area schools. 
 
-[North Carolina Summer Jam](https://qiskit-community-summer-jam-new-england.hackerearth.com/) - consisting of NC State, UNC Chapel Hill, Duke, and any other North Carolina area schools. 
+[North Carolina Summer Jam](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-north-carolina/) - consisting of NC State, UNC Chapel Hill, Duke, and any other North Carolina area schools. 
 
-[California Summer Jam](https://qiskit-community-summer-jam-new-england.hackerearth.com/) - consisting of Stanford, UC Irvine, and any other California area schools. 
+[California Summer Jam](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-california/) - consisting of Stanford, UC Irvine, and any other California area schools. 
 
 
 All projects need to make use of Qiskit, the open source framework for quantum computing. See the individual webpages for full contest terms and rules.
