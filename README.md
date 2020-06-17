@@ -1,5 +1,8 @@
 ![logo](https://github.com/qiskit-community/qiskit-summer-jam-20/blob/master/CommunitySummerJam_Maps_Logos_Icons-39.png)
 
+# Welcome to the Summer Jam
+
+Add your team name and link to repo in the appropriate table below. 
 
 <table> <tr><td>
 <table> <thead>
@@ -38,11 +41,13 @@
 </table>
 </td></tr></table>
 
-------
+-----
+
 <p align="center">
   <img width="600" src="https://github.com/qiskit-community/qiskit-summer-jam-20/blob/master/CommunityJam_Map-01compress.png">
 </p>
-------
+
+
 
 ## Summer Jam Websites
 
