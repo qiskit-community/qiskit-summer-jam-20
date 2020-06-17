@@ -1,31 +1,42 @@
 ![logo](https://github.com/qiskit-community/qiskit-summer-jam-20/blob/master/CommunitySummerJam_Maps_Logos_Icons-39.png)
 
-# Qiskit Community Summer Jam
-Submit a pull request to add your team name and repo link to the Summer Jam below.
 
-## New England Teams
-
-1 - Team Name [Link to repo](https://www.qiskit.org)
-
-2 - 
-
-## California Teams
-
-1 - Team Name [Link to repo](https://www.qiskit.org)
-
-2 - 
-
-## North Carolina Teams
-
-1 - Team Name [Link to repo](https://www.qiskit.org)
-
-2 - 
-
-## Midwest Teams
-
-1 - Team Name [Link to repo](https://www.qiskit.org)
-
-2 - 
+<table> <tr><td>
+<table> <thead>
+<tr>
+<th colspan="2">New England Community Teams</th>
+</tr> </thead>
+<tbody>
+    <tr><td>Team Name</td> <td><a href="https://www.qiskit.org">Link to repo</a></td></tr>
+    <tr><td>Team Name 2</td><td><a href="https://www.ibm.com">Link to repo</a></td></tr>
+</tbody> </table>
+<table> <thead>
+<tr>
+<th colspan="2">California Community Teams</th>
+</tr> </thead>
+<tbody>
+    <tr><td>Team Name</td> <td><a href="https://www.qiskit.org">Link to repo</a></td></tr>
+    <tr><td>Team Name 2</td><td><a href="https://www.ibm.com">Link to repo</a></td></tr>
+</tbody> </table>
+</td><td>
+<table> <thead>
+<tr>
+<th colspan="2">North Carolina Community Teams</th>
+</tr> </thead>
+<tbody>
+    <tr><td>Team Name</td> <td><a href="https://www.qiskit.org">Link to repo</a></td></tr>
+    <tr><td>Team Name 2</td><td><a href="https://www.ibm.com">Link to repo</a></td></tr>
+</tbody> </table>
+<table> <thead>
+<tr>
+<th colspan="2">Midwest Community Teams</th>
+</tr> </thead> 
+<tbody>
+    <tr><td>Team Name</td> <td><a href="https://www.qiskit.org">Link to repo</a></td></tr>
+    <tr><td>Team Name 2</td><td><a href="https://www.ibm.com">Link to repo</a></td></tr>
+</tbody>
+</table>
+</td></tr></table>
 
 ------
 <p align="center">
