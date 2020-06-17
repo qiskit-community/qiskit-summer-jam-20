@@ -5,25 +5,25 @@ Submit a pull request to add your team name and repo link to the Summer Jam belo
 
 ## New England Teams
 
-1 - Team Name [Link to repo](www.qiskit.org)
+1 - Team Name [Link to repo](https://www.qiskit.org)
 
 2 - 
 
 ## California Teams
 
-1 - Team Name [Link to repo](www.qiskit.org)
+1 - Team Name [Link to repo](https://www.qiskit.org)
 
 2 - 
 
 ## North Carolina Teams
 
-1 - Team Name [Link to repo](www.qiskit.org)
+1 - Team Name [Link to repo](https://www.qiskit.org)
 
 2 - 
 
 ## Midwest Teams
 
-1 - Team Name [Link to repo](www.qiskit.org)
+1 - Team Name [Link to repo](https://www.qiskit.org)
 
 2 - 
 
