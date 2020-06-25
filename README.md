@@ -18,7 +18,7 @@ Add your team name and link to repo in the appropriate table below.
 <th colspan="2">California Community Teams</th>
 </tr> </thead>
 <tbody>
-    <tr><td>Team Name</td> <td><a href="https://www.qiskit.org">Link to repo</a></td></tr>
+    <tr><td>R-Lab Best Lab</td> <td><a href="https://github.com/normanav/QiskitSummerJam2020">Link to repo</a></td></tr>
     <tr><td>Team Name 2</td><td><a href="https://www.ibm.com">Link to repo</a></td></tr>
 </tbody> </table>
 </td><td>
