@@ -37,6 +37,8 @@ Add your team name and link to repo in the appropriate table below.
 <tbody>
     <tr><td>BioQubits</td> <td><a href="https://github.com/spencerking/QiskitSummerJam-LocalSequenceAlignment">DNA Local Sequence Alignment</a></td></tr>
     <tr><td>Team Name 2</td><td><a href="https://www.ibm.com">Link to repo</a></td></tr>
+    <tr><td>16Qubits&ADream</td> <td><a href="https://github.com/khalilguy/QiskitHackathon.git">Link to repo</a></td></tr>
+  
 </tbody>
 </table>
 </td></tr></table>
