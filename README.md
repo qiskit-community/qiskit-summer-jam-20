@@ -10,7 +10,7 @@ Add your team name and link to repo in the appropriate table below.
 <th colspan="2">New England Community Teams</th>
 </tr> </thead>
 <tbody>
-    <tr><td>Team Name</td> <td><a href="https://www.qiskit.org">Link to repo</a></td></tr>
+    <tr><td>Quantum Contact Tracers</td> <td><a href="https://github.com/ARMargolis/contact_tracer">Link to Repo</a></td></tr>
     <tr><td>Team Name 2</td><td><a href="https://www.ibm.com">Link to repo</a></td></tr>
 </tbody> </table>
 <table> <thead>
@@ -35,8 +35,10 @@ Add your team name and link to repo in the appropriate table below.
 <th colspan="2">Midwest Community Teams</th>
 </tr> </thead> 
 <tbody>
-    <tr><td>16Qubits&ADream</td> <td><a href="https://github.com/khalilguy/QiskitHackathon.git">Link to repo</a></td></tr>
+    <tr><td>BioQubits</td> <td><a href="https://github.com/spencerking/QiskitSummerJam-LocalSequenceAlignment">DNA Local Sequence Alignment</a></td></tr>
     <tr><td>Team Name 2</td><td><a href="https://www.ibm.com">Link to repo</a></td></tr>
+    <tr><td>16Qubits&ADream</td> <td><a href="https://github.com/khalilguy/QiskitHackathon.git">Link to repo</a></td></tr>
+  
 </tbody>
 </table>
 </td></tr></table>
