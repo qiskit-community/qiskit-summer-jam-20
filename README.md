@@ -2,44 +2,12 @@
 
 # Welcome to the Summer Jam
 
-Add your team name and link to repo in the appropriate table below. 
+The Qiskit Community Summer Jam is a series of local hackathons held around the world. The Qiskit team partners with local leaders in different regions to establish a hackathon for everyone in their area. The goal is to recreate the feeling of a campus hackathon - getting together with your friends and colleagues to build and compete against each other, while learning new skills along the way.
 
-<table> <tr><td>
-<table> <thead>
-<tr>
-<th colspan="2">New England Community Teams</th>
-</tr> </thead>
-<tbody>
-    <tr><td>Quantum Contact Tracers</td> <td><a href="https://github.com/ARMargolis/contact_tracer">Link to Repo</a></td></tr>
-    <tr><td>Team Name 2</td><td><a href="https://www.ibm.com">Link to repo</a></td></tr>
-</tbody> </table>
-<table> <thead>
-<tr>
-<th colspan="2">California Community Teams</th>
-</tr> </thead>
-<tbody>
-    <tr><td>Team Name</td> <td><a href="https://www.qiskit.org">Link to repo</a></td></tr>
-    <tr><td>Team Name 2</td><td><a href="https://www.ibm.com">Link to repo</a></td></tr>
-</tbody> </table>
-</td><td>
-<table> <thead>
-<tr>
-<th colspan="2">North Carolina Community Teams</th>
-</tr> </thead>
-<tbody>
-    <tr><td>Team Name</td> <td><a href="https://www.qiskit.org">Link to repo</a></td></tr>
-    <tr><td>Team Name 2</td><td><a href="https://www.ibm.com">Link to repo</a></td></tr>
-</tbody> </table>
-<table> <thead>
-<tr>
-<th colspan="2">Midwest Community Teams</th>
-</tr> </thead> 
-<tbody>
-    <tr><td>BioQubits</td> <td><a href="https://github.com/spencerking/QiskitSummerJam-LocalSequenceAlignment">DNA Local Sequence Alignment</a></td></tr>
-    <tr><td>Team Name 2</td><td><a href="https://www.ibm.com">Link to repo</a></td></tr>
-</tbody>
-</table>
-</td></tr></table>
+Now that the first round of hackathons is complete, the team is opening up this opportunity to all students worldwide. We love to partner with motivated people who don't mind volunteering their time and energy into making an awesome event happen. The Qiskit Team is happy to send a thank you package along for the help.
+
+Successful Summer Jams have at least 40 driven participants who are ready to build something new. If you're interested in hosting a Summer Jam in your area, [apply here](https://airtable.com/shrSYigs5jgG06ekw)
+
 
 -----
 
@@ -49,17 +17,17 @@ Add your team name and link to repo in the appropriate table below.
 
 
 
-## Summer Jam Websites
+## Phase One Summer Jams
 
 Each HackerEarth website contains the FAQ, Rules, Team Formation, Project ideas, and much more. Use the links below to find your community's Summer Jam.
 
-[New England Summer Jam](https://qiskit-community-summer-jam-new-england.hackerearth.com/) - consisting of Yale, MIT, Harvard, BU, NYU, and any other New England area schools. 
+[New England Summer Jam](https://qiskit-community-summer-jam-new-england.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-boston/submissions/#submissions) - consisting of Yale, MIT, Harvard, BU, NYU, and other New England area schools. 
 
-[Midwest Summer Jam](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-mid-west/) - consisting of MSU, University of Chicago, University of Michigan, and any other Midwest area schools. 
+[Midwest Summer Jam](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-mid-west/submissions/#submissions) - consisting of MSU, University of Chicago, University of Michigan, and other Illinois & Michigan area schools. 
 
-[North Carolina Summer Jam](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-north-carolina/) - consisting of NC State, UNC Chapel Hill, Duke, and any other North Carolina area schools. 
+[North Carolina Summer Jam](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-north-carolina/submissions/#submissions) - consisting of NC State, UNC Chapel Hill, Duke, and other North Carolina area schools. 
 
-[California Summer Jam](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-california/) - consisting of Stanford, UC Irvine, and any other California area schools. 
+[California Summer Jam](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-california/submissions/#submissions) - consisting of Stanford, UC Irvine, and other California area schools. 
 
 
 All projects need to make use of Qiskit, the open source framework for quantum computing. See the individual webpages for full contest terms and rules.
