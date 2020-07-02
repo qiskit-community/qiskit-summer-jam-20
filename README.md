@@ -19,7 +19,7 @@ Successful Summer Jams have at least 40 driven participants who are ready to bui
 
 ## Phase One Summer Jams
 
-Each HackerEarth website contains the FAQ, Rules, Team Formation, Project ideas, and much more. Use the links below to find your community's Summer Jam.
+These hackathons ran from June 24th - July 1st. You can click each link below to see the projects submitted through each one. 
 
 [New England Summer Jam](https://qiskit-community-summer-jam-new-england.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-boston/submissions/#submissions) - consisting of Yale, MIT, Harvard, BU, NYU, and other New England area schools. 
 
@@ -29,6 +29,10 @@ Each HackerEarth website contains the FAQ, Rules, Team Formation, Project ideas,
 
 [California Summer Jam](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-california/submissions/#submissions) - consisting of Stanford, UC Irvine, and other California area schools. 
 
+
+## Phase Two Summer Jams
+
+We're in the middle of planning Phase Two right now! If you're interested in hosting a Summer Jam in your area, [apply here](https://airtable.com/shrSYigs5jgG06ekw)
 
 All projects need to make use of Qiskit, the open source framework for quantum computing. See the individual webpages for full contest terms and rules.
 
