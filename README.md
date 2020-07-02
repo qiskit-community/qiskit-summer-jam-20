@@ -30,11 +30,15 @@ These hackathons ran from June 24th - July 1st. You can click each link below to
 [California Summer Jam](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-california/submissions/#submissions) - consisting of Stanford, UC Irvine, and other California area schools. 
 
 
+-----
+
+
 ## Phase Two Summer Jams
 
 We're in the middle of planning Phase Two right now! If you're interested in hosting a Summer Jam in your area, [apply here](https://airtable.com/shrSYigs5jgG06ekw)
 
 All projects need to make use of Qiskit, the open source framework for quantum computing. See the individual webpages for full contest terms and rules.
+
 
 <p align="center">
   <img width="200" height="200" src="https://github.com/qiskit-community/qiskit-summer-jam-20/blob/master/CommunitySummerJam_Maps_Logos_Icons-22.png">
