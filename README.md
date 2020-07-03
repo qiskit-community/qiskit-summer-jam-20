@@ -1,4 +1,4 @@
-![logo](https://github.com/qiskit-community/qiskit-summer-jam-20/blob/master/CommunitySummerJam_Maps_Logos_Icons-39.png)
+![logo](https://github.com/qiskit-community/qiskit-summer-jam-20/blob/master/BannerImages_small.png)
 
 # Welcome to the Summer Jam
 
@@ -21,11 +21,11 @@ Successful Summer Jams have at least 40 driven participants who are ready to bui
 
 These hackathons ran from June 24th - July 1st. You can click each link below to see the projects submitted through each one. 
 
+[North Carolina Summer Jam](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-north-carolina/submissions/#submissions) - consisting of NC State, UNC Chapel Hill, Duke, and other North Carolina area schools. 
+
 [New England Summer Jam](https://qiskit-community-summer-jam-new-england.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-boston/submissions/#submissions) - consisting of Yale, MIT, Harvard, BU, NYU, and other New England area schools. 
 
 [Midwest Summer Jam](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-mid-west/submissions/#submissions) - consisting of MSU, University of Chicago, University of Michigan, and other Illinois & Michigan area schools. 
-
-[North Carolina Summer Jam](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-north-carolina/submissions/#submissions) - consisting of NC State, UNC Chapel Hill, Duke, and other North Carolina area schools. 
 
 [California Summer Jam](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-california/submissions/#submissions) - consisting of Stanford, UC Irvine, and other California area schools. 
 
