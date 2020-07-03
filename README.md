@@ -49,10 +49,10 @@ More info coming soon...
 More info coming soon...
 
 
+<br></br>
+We're in the middle of planning Phase Two right now. If you're interested in hosting a Summer Jam in your area, [apply here](https://airtable.com/shrSYigs5jgG06ekw)!
 
-We're in the middle of planning Phase Two right now! If you're interested in hosting a Summer Jam in your area, [apply here](https://airtable.com/shrSYigs5jgG06ekw)
-
-All projects need to make use of Qiskit, the open source framework for quantum computing. See the individual webpages for full contest terms and rules.
+All projects use [Qiskit](https://qiskit.org), the open source framework for quantum computing. Full contest terms and rules can be found [here](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-north-carolina/rules/#rules).
 
 
 <p align="center">
