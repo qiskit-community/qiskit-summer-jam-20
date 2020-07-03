@@ -2,11 +2,11 @@
 
 # Welcome to the Summer Jam
 
-The Qiskit Community Summer Jam is a series of local hackathons held around the world. The Qiskit team partners with local leaders in different regions to establish a hackathon for their area. The goal is to recreate the feeling of a campus hackathon - getting together with your friends and colleagues to build and compete against each other, while learning new skills along the way. Summer Jam hackathons are open to everyone, from high school students just getting started with quantum to grad students who have been studying qubits for years. 
+The Qiskit Community Summer Jam is a series of online hackathons held around the world. The Qiskit team partners with local leaders in different regions to run a hackathon for their community. The goal is to recreate the feeling of a campus hackathon - getting together with your friends and colleagues to build and compete against each other, while learning new skills along the way. Summer Jam hackathons are open to everyone, from high school students just getting started with quantum to grad students who have been studying qubits for years. 
 
-Now that the first round of hackathons is complete, the team is opening up this opportunity worldwide. We love to partner with motivated people who don't mind volunteering their time and energy into making an awesome event happen. While education is our focus, Summer Jam events are not restricted to students only. Our goal is to grow local quantum communities and encourage more people, no matter who you are, to try building a project with Qiskit.
+Now that the first round of hackathons is complete, the Qiskit team is opening up this opportunity worldwide. We love to partner with motivated people who don't mind volunteering their time and energy to make an awesome event happen. While education is our focus, Summer Jam events are not restricted to students only. Our goal is to grow local quantum communities and encourage more people, no matter who you are, to try building a project with Qiskit.
 
-Successful Summer Jams have at least 40 driven participants who are ready to build something new. If you're interested in hosting a Summer Jam in your area, [apply here](https://airtable.com/shrSYigs5jgG06ekw)
+Successful Summer Jams have at least 40 driven participants who are ready to build something new. If you're interested in hosting a Summer Jam in your area, [apply here](https://airtable.com/shrSYigs5jgG06ekw) to lead the way.
 
 
 -----
@@ -17,23 +17,36 @@ Successful Summer Jams have at least 40 driven participants who are ready to bui
 
 
 
-## Phase One Summer Jams
+## Summer Jam: Phase Two
 
-These hackathons ran from June 24th - July 1st. You can click each link below to see the projects submitted through each one. 
+These hackathons ran from June 24th - July 1st. Click each link to see the projects submitted through each one. 
 
-[North Carolina Summer Jam](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-north-carolina/submissions/#submissions) - consisting of NC State, UNC Chapel Hill, Duke, and other North Carolina area schools. 
+#### [North Carolina Summer Jam](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-north-carolina/submissions/#submissions) 
+NC State, UNC Chapel Hill, Duke, and other North Carolina area schools. Winning team will be announced soon.
 
-[New England Summer Jam](https://qiskit-community-summer-jam-new-england.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-boston/submissions/#submissions) - consisting of Yale, MIT, Harvard, BU, NYU, and other New England area schools. 
+#### [New England Summer Jam](https://qiskit-community-summer-jam-new-england.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-boston/submissions/#submissions) 
+Yale, MIT, Harvard, Boston University, NYU, and other New England area schools. Winning team will be announced soon.
 
-[Midwest Summer Jam](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-mid-west/submissions/#submissions) - consisting of MSU, University of Chicago, University of Michigan, and other Illinois & Michigan area schools. 
+#### [Midwest Summer Jam](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-mid-west/submissions/#submissions) 
+Michigan State University, University of Chicago, University of Michigan, and other Illinois & Michigan area schools. Winning team will be announced soon.
 
-[California Summer Jam](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-california/submissions/#submissions) - consisting of Stanford, UC Irvine, and other California area schools. 
+#### [California Summer Jam](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-california/submissions/#submissions) 
+Stanford, UC Irvine, and other California area schools. Winning team will be announced soon.
 
 
 -----
 
 
-## Phase Two Summer Jams
+## Summer Jam: Phase Two
+
+#### Denver Summer Jam 
+More info coming soon...
+
+#### London Summer Jam 
+More info coming soon...
+
+#### Dublin Summer Jam 
+More info coming soon...
 
 We're in the middle of planning Phase Two right now! If you're interested in hosting a Summer Jam in your area, [apply here](https://airtable.com/shrSYigs5jgG06ekw)
 
