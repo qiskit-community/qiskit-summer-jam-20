@@ -4,7 +4,7 @@
 
 The Qiskit Community Summer Jam is a series of local hackathons held around the world. The Qiskit team partners with local leaders in different regions to establish a hackathon for their area. The goal is to recreate the feeling of a campus hackathon - getting together with your friends and colleagues to build and compete against each other, while learning new skills along the way. Summer Jam hackathons are open to everyone, from high school students just getting started with quantum to grad students who have been studying qubits for years. 
 
-Now that the first round of hackathons is complete, the team is opening up this opportunity worldwide. We love to partner with motivated people who don't mind volunteering their time and energy into making an awesome event happen. The Qiskit Team is happy to send a thank you package along for the help. While education is our focus, Summer Jam events are not restricted to students only. Our goal is to grow local quantum communities and encourage more people, no matter who you are, to try building a project with Qiskit.
+Now that the first round of hackathons is complete, the team is opening up this opportunity worldwide. We love to partner with motivated people who don't mind volunteering their time and energy into making an awesome event happen. While education is our focus, Summer Jam events are not restricted to students only. Our goal is to grow local quantum communities and encourage more people, no matter who you are, to try building a project with Qiskit.
 
 Successful Summer Jams have at least 40 driven participants who are ready to build something new. If you're interested in hosting a Summer Jam in your area, [apply here](https://airtable.com/shrSYigs5jgG06ekw)
 
