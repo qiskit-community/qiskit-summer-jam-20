@@ -48,6 +48,8 @@ More info coming soon...
 #### Dublin Summer Jam 
 More info coming soon...
 
+
+
 We're in the middle of planning Phase Two right now! If you're interested in hosting a Summer Jam in your area, [apply here](https://airtable.com/shrSYigs5jgG06ekw)
 
 All projects need to make use of Qiskit, the open source framework for quantum computing. See the individual webpages for full contest terms and rules.
