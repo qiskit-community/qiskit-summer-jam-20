@@ -17,9 +17,9 @@ Successful Summer Jams have at least 40 driven participants who are ready to bui
 
 
 
-## Summer Jam: Phase Two
+## Summer Jam: Phase One
 
-These hackathons ran from June 24th - July 1st. Click each link to see the projects submitted through each one. 
+The first rounf of hackathons ran from June 24th - July 1st. Click each link to see the projects submitted through each one. 
 
 #### [North Carolina Summer Jam](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-north-carolina/submissions/#submissions) 
 NC State, UNC Chapel Hill, Duke, and other North Carolina area schools. Winning team will be announced soon.
