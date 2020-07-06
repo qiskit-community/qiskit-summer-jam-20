@@ -39,6 +39,11 @@ Stanford, UC Irvine, and other California area schools. Winning team will be ann
 
 ## Summer Jam: Phase Two
 
+We're in the middle of planning Phase Two right now. If you're interested in hosting a Summer Jam in your area, [apply here](https://airtable.com/shrSYigs5jgG06ekw)!
+
+All projects use [Qiskit](https://qiskit.org), the open source framework for quantum computing. Full contest terms and rules can be found [here](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-north-carolina/rules/#rules).
+<br></br>
+
 #### Denver Summer Jam 
 More info coming soon...
 
@@ -50,10 +55,6 @@ More info coming soon...
 
 
 <br></br>
-We're in the middle of planning Phase Two right now. If you're interested in hosting a Summer Jam in your area, [apply here](https://airtable.com/shrSYigs5jgG06ekw)!
-
-All projects use [Qiskit](https://qiskit.org), the open source framework for quantum computing. Full contest terms and rules can be found [here](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-north-carolina/rules/#rules).
-
 
 <p align="center">
   <img width="200" height="200" src="https://github.com/qiskit-community/qiskit-summer-jam-20/blob/master/CommunitySummerJam_Maps_Logos_Icons-22.png">
