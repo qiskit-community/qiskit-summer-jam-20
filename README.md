@@ -19,20 +19,20 @@ Successful Summer Jams have at least 40 driven participants who are ready to bui
 
 ## Summer Jam: Phase One
 
-The first round of hackathons ran from June 24th - July 1st. Click each link to see the projects submitted through each one. 
+The first round of hackathons ran from June 24th - July 1st. Click the name of each Summer Jam to see the full list of projects submitted. 
 <br></br>
 
 #### [North Carolina Summer Jam](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-north-carolina/submissions/#submissions) 
-NC State, UNC Chapel Hill, Duke, and other North Carolina area schools. Winning team will be announced soon.
+NC State, UNC Chapel Hill, Duke, and other North Carolina area schools. The wining team is the Quantum Ducks with the project "[QuBayes: The Quantum Bayesian Circuit Builder for All](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-north-carolina/dashboard/206c523/submission/)." An Honorable Mention goes to team Ube Pancake with the project "[Quantum Deep Learning with Qiskit & PyTorch](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-north-carolina/dashboard/3035876/submission/)"
 
 #### [New England Summer Jam](https://qiskit-community-summer-jam-new-england.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-boston/submissions/#submissions) 
-Yale, MIT, Harvard, Boston University, NYU, and other New England area schools. Winning team will be announced soon.
+Yale, MIT, Harvard, Boston University, NYU, and other New England area schools. The winning team is team Shabani with the project "[Wavefunction Generation as Noise Evaluation](https://qiskit-community-summer-jam-new-england.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-boston/dashboard/bbe981b/submission/)"
 
 #### [Midwest Summer Jam](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-mid-west/submissions/#submissions) 
-Michigan State University, University of Chicago, University of Michigan, and other Illinois & Michigan area schools. Winning team will be announced soon.
+Michigan State University, University of Chicago, University of Michigan, and other Illinois & Michigan area schools. The winning team is QuarantineQbits with the project "[Exploring Localization and Excited States with VQE](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-mid-west/dashboard/6870e6a/submission/)" 
 
 #### [California Summer Jam](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-california/submissions/#submissions) 
-Stanford, UC Irvine, and other California area schools. Winning team will be announced soon.
+Stanford, UC Irvine, and other California area schools. The winning team is R-Lab Best Lab with the project "[Quid Pro Quo](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-california/dashboard/c446276/submission/)"
 
 
 -----
