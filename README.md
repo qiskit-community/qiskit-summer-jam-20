@@ -45,15 +45,14 @@ We're in the middle of planning Phase Two right now. If you're interested in hos
 All projects use [Qiskit](https://qiskit.org), the open source framework for quantum computing. Full contest terms and rules can be found [here](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-north-carolina/rules/#rules).
 <br></br>
 
-#### Denver Summer Jam 
-More info coming soon...
+#### [Denver Summer Jam](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-denver/) 
+In partnership with students from CU Boulder, Colorado School of Mines, and many more! If you're in the Colorado community, join today. Hacking begins August 13th.
+
+#### [Dublin (UCD) Summer Jam](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-dublin/) 
+Organized by researchers and members of UCD, this hackathon is primarily for students at UCD but is also open to qiskitters from the Dublin community at large. Hacking begins August 13th. 
 
 #### London Summer Jam 
 More info coming soon...
-
-#### Dublin Summer Jam 
-More info coming soon...
-
 
 <br></br>
 
